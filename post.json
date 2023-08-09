@@ -1,0 +1,21 @@
+{
+    "id":1,
+    "content":"hello world!",
+    "author":{
+        "id":2,
+        "name":"hori"
+    },
+    "comments":[
+        {
+            "id":3,
+            "content":"Have a great day",
+            "author":"admin"
+        },
+        {
+            "id":4,
+            "content":"How are you?",
+            "author":"Betty"
+        }
+    ]
+
+}
